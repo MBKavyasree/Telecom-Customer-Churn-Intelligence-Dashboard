@@ -186,3 +186,6 @@ It is suitable for showcasing on GitHub as a data analyst or junior data scienti
 - perform hyperparameter tuning
 - build an interactive dashboard in Power BI, Tableau, or Streamlit
 - deploy the model as a simple web app
+
+- # Live Demo Link
+- https://telecom-customer-churn-dashboard.streamlit.app/
